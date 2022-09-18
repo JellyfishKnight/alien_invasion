@@ -33,3 +33,7 @@
 
 ### 画面截图
 
+![游戏截图1](https://github.com/JellyfishKnight/alien_invasion/blob/main/images/Screenshot%20from%202022-09-18%2019-02-51.png)
+
+
+![游戏截图2](https://github.com/JellyfishKnight/alien_invasion/blob/main/images/Screenshot%20from%202022-09-18%2019-03-36.png)
